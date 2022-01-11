@@ -1,0 +1,22 @@
+{
+  "name": "express_server_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinimbrancalhao/express_server_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinimbrancalhao/express_server_practice/issues"
+  },
+  "homepage": "https://github.com/jinimbrancalhao/express_server_practice#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
